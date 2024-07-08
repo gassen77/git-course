@@ -1,2 +1,5 @@
 # ignore all logs
-*.log 
+*.log
+# Ignorer le fichier test.log
+internalConfiguration.txt
+ 
